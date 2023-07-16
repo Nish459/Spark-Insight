@@ -18,7 +18,6 @@ To set up the application locally, follow these steps:
 * Clone the repository: git clone https://github.com/Nish459/Spark-Insight.git
 * Navigate to the project directory: cd Spark-Insight
 * Install the dependencies: npm install
-* Configure the database connection in the .env file.
 * Start the server: npm start
 * Open your web browser and visit http://localhost:3000 to access the blogging website.
 
